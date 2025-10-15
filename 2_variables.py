@@ -23,3 +23,4 @@ num4=int(input("ingrese otro numero"))
 resta=num3-num4
 print(f"la resta es: {resta}")
 
+#comentario
